@@ -1,0 +1,5 @@
+__pycache__/
+INPUT_FILES/
+output_dir/
+RESULT_FILES/
+*.pyc

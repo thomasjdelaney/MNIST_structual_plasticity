@@ -1,0 +1,11 @@
+{
+  "87465": {
+    "source_code": {
+      "./argparser.py": 1601417040,
+      "./mnist_topographic_map_rate_based.py": 1601333158,
+      "./function_definitions.py": 1601417045,
+      "./mnist_topographic_map.py": 1601472087,
+      "./test_simulation_script.py": 1601471556
+    }
+  }
+}
